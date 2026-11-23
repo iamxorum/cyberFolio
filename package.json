@@ -39,7 +39,7 @@
     "@types/three": "^0.187.0",
     "eslint": "^10.15.0",
     "eslint-config-next": "16.4.6",
-    "postcss": "^8.5.31",
+    "postcss": "^8.5.33",
     "tailwindcss": "^4",
     "typescript": "^5"
   },
